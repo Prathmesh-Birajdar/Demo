@@ -1,2 +1,3 @@
 # Demo
-my first git repository
+My first Git repository
+Author - Prathmesh Birajdar
